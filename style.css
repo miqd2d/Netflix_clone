@@ -25,7 +25,7 @@ nav {
 
 .main {
     position: relative;
-    background-image: url(/images/bg.jpg);
+    background-image: url(images/bg.jpg);
     height: 110vh;
     background-position: center center;
     background-size: cover;
@@ -169,16 +169,16 @@ input::placeholder{
     padding:20px;
 }
 .kalki{
-    background-image: url(/images/kalki.jpg);
+    background-image: url(images/kalki.jpg);
 }
 .hd{
-    background-image: url(/images/haseen_dilruba.jpg);
+    background-image: url(images/haseen_dilruba.jpg);
 }
 .union{
-    background-image: url(/images/union.jpg);
+    background-image: url(images/union.jpg);
 }
 .indian2{
-    background-image: url(/images/indian2.jpg);
+    background-image: url(images/indian2.jpg);
 }
 .more{
     padding-top: 40px;
